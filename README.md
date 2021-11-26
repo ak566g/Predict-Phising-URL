@@ -23,3 +23,8 @@ Once `virtualenv` activated:
 ```
 And navigate to `http://127.0.0.1:8000/`.
 
+## ScreenShots
+
+![](https://github.com/ak566g/Detect-Phising-URL/blob/main/images/ss1.png)
+
+![](https://github.com/ak566g/Detect-Phising-URL/blob/main/images/ss2.png)
