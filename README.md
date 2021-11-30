@@ -1,5 +1,12 @@
 # Predict-Phising-URL
 
+## ScreenShots
+
+![](https://github.com/ak566g/Predict-Phising-URL/blob/main/images/ss1.png)
+
+![](https://github.com/ak566g/Predict-Phising-URL/blob/main/images/ss2.png)
+
+
 ## Setup
 
 The first thing to do is to clone the repository:
@@ -22,9 +29,3 @@ Once `virtualenv` activated:
 (env)$ python manage.py runserver
 ```
 And navigate to `http://127.0.0.1:8000/`.
-
-## ScreenShots
-
-![](https://github.com/ak566g/Predict-Phising-URL/blob/main/images/ss1.png)
-
-![](https://github.com/ak566g/Predict-Phising-URL/blob/main/images/ss2.png)
